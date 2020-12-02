@@ -23,6 +23,7 @@
   <a href="https://getcomposer.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/> </a>  
   <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   https://cdn.worldvectorlogo.com/logos/rest-63.svg
+  https://cdn.svgporn.com/logos/swagger.svg
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   https://cdn.worldvectorlogo.com/logos/github-icon-1.svg
   https://cdn.worldvectorlogo.com/logos/gitlab.svg
@@ -47,6 +48,6 @@
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczNDY4ODc0LC05Mjk2NDA1OTYsLTIzOT
+eyJoaXN0b3J5IjpbMTI2ODcxMDI2LC05Mjk2NDA1OTYsLTIzOT
 MxODQ2MCw0MjE3MTAwODYsMTUyNTE2MzY2N119
 -->
