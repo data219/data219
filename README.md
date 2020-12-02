@@ -23,12 +23,7 @@
   <a href="https://getcomposer.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/> </a>  
   <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
    <a href="https://www.w3.org/2001/sw/wiki/REST" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/rest-63.svg" alt="REST" width="40" height="40"/> </a>
-   <a href="https://swagger.io/" target="_blank"> <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="http://github.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="40" height="40"/> </a>
-  <a href="https://gitlab.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="Gitlab" width="40" height="40"/> </a>
-  <a href="https://bitbucket.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" alt="Bitbucket" width="40" height="40"/> </a>
-  <a href="https://www.atlassian.com/de/software/jira" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40"/> </a>  
+   <a href="https://swagger.io/" target="_blank"> <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/> </a>   
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
@@ -37,6 +32,15 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="http://github.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="40" height="40"/> </a>
+  <a href="https://gitlab.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="Gitlab" width="40" height="40"/> </a>
+  <a href="https://bitbucket.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" alt="Bitbucket" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/de/software/jira" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="" width="40" height="40"/> </a>
+  https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg 
+https://cdn.svgporn.com/logos/phpstorm.svg
+https://worldvectorlogo.com/logo/slack-new-logo
   <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
@@ -48,7 +52,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>   
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODM0MjkzOSwxMjY4NzEwMjYsLTkyOT
-Y0MDU5NiwtMjM5MzE4NDYwLDQyMTcxMDA4NiwxNTI1MTYzNjY3
-XX0=
+eyJoaXN0b3J5IjpbLTM3NTIwNDc5LDEyNjg3MTAyNiwtOTI5Nj
+QwNTk2LC0yMzkzMTg0NjAsNDIxNzEwMDg2LDE1MjUxNjM2Njdd
+fQ==
 -->
