@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A passionate PHP, symfony (and sometimes python) developer with a preference for devops from Cologne, Germany</h3>
+<h3 align="center">A passionate software engineer and team lead with a preference for devops from Cologne, Germany. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET,A" alt="data219" /></a> </p>
 
@@ -56,7 +56,7 @@
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTc0MDI2NSwtMTcxNDg1MjExMiwtMT
+eyJoaXN0b3J5IjpbMTc2NTgyMzU5NiwtMTcxNDg1MjExMiwtMT
 E1MjI1MjYwOCwxMjY4NzEwMjYsLTkyOTY0MDU5NiwtMjM5MzE4
 NDYwLDQyMTcxMDA4NiwxNTI1MTYzNjY3XX0=
 -->
