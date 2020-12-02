@@ -25,9 +25,12 @@
    <a href="https://www.w3.org/2001/sw/wiki/REST" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/rest-63.svg" alt="REST" width="40" height="40"/> </a>
    <a href="https://swagger.io/" target="_blank"> <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  https://cdn.worldvectorlogo.com/logos/github-icon-1.svg
-  https://cdn.worldvectorlogo.com/logos/gitlab.svg
-  https://cdn.worldvectorlogo.com/logos/bitbucket.svg
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="Gitlab" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" alt="Bitbucket" width="40" height="40"/> </a>
+  
+  
+  
   <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
@@ -47,7 +50,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>   
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNzc1MTQ1LDEyNjg3MTAyNiwtOTI5Nj
-QwNTk2LC0yMzkzMTg0NjAsNDIxNzEwMDg2LDE1MjUxNjM2Njdd
-fQ==
+eyJoaXN0b3J5IjpbMTU1MDg5MDg2OCwxMjY4NzEwMjYsLTkyOT
+Y0MDU5NiwtMjM5MzE4NDYwLDQyMTcxMDA4NiwxNTI1MTYzNjY3
+XX0=
 -->
