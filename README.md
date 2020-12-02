@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A passionate PHP, symfony (and sometimes python) developer with a preference for devops from Cologne, Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SSS,SS,S,AAA,AA,A" alt="data219" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219" alt="data219" /></a> </p>
 
 - 🌱 I’m currently learning **kubernetes**
 
@@ -54,7 +54,7 @@
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTE4OTc3LDEyNjg3MTAyNiwtOTI5Nj
-QwNTk2LC0yMzkzMTg0NjAsNDIxNzEwMDg2LDE1MjUxNjM2Njdd
-fQ==
+eyJoaXN0b3J5IjpbLTgxMTI2NDgxOCwxMjY4NzEwMjYsLTkyOT
+Y0MDU5NiwtMjM5MzE4NDYwLDQyMTcxMDA4NiwxNTI1MTYzNjY3
+XX0=
 -->
