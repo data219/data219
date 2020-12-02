@@ -22,7 +22,8 @@
   <a href="https://www.doctrine-project.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="doctrine" width="40" height="40"/> </a>
   <a href="https://getcomposer.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/> </a>  
   <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  https://cdn.worldvectorlogo.com/logos/rest-63.svg
+    <a href="https://www.docker.com/" target="_blank"> <img src="  https://cdn.worldvectorlogo.com/logos/rest-63.svg" alt="REST" width="40" height="40"/> </a>
+
   https://cdn.svgporn.com/logos/swagger.svg
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   https://cdn.worldvectorlogo.com/logos/github-icon-1.svg
@@ -47,7 +48,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>   
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTIwMjkzOCwxMjY4NzEwMjYsLTkyOT
+eyJoaXN0b3J5IjpbMTI5MTc4NDExOCwxMjY4NzEwMjYsLTkyOT
 Y0MDU5NiwtMjM5MzE4NDYwLDQyMTcxMDA4NiwxNTI1MTYzNjY3
 XX0=
 -->
