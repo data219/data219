@@ -39,10 +39,7 @@
   <a href="https://www.atlassian.com/de/software/jira" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/en-en/phpstorm/" target="_blank"> <img src="https://cdn.svgporn.com/logos/phpstorm.svg" alt="PHPStorm" width="40" height="40"/> </a>
-  <a href="https://slack.com/" target="_blank"> <img src="https://worldvectorlogo.com/logo/slack-new-logo" alt="Slack" width="40" height="40"/> </a>
-   
-
-
+  <a href="https://slack.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a  href="http://dokku.viewdocs.io/dokku/" target="_blank">  <img  src="https://github.com/dokku/dokku/blob/master/docs/assets/dokku.png" alt="Dokku" width="40" height="40"/>  </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
@@ -53,11 +50,11 @@
   <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/> </a>
+  <a href="http://ubuntulinux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTM0NjQ1MCwxMjY4NzEwMjYsLTkyOT
-Y0MDU5NiwtMjM5MzE4NDYwLDQyMTcxMDA4NiwxNTI1MTYzNjY3
-XX0=
+eyJoaXN0b3J5IjpbLTE0MzYxNTIzODIsMTI2ODcxMDI2LC05Mj
+k2NDA1OTYsLTIzOTMxODQ2MCw0MjE3MTAwODYsMTUyNTE2MzY2
+N119
 -->
