@@ -37,10 +37,12 @@
   <a href="https://gitlab.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="Gitlab" width="40" height="40"/> </a>
   <a href="https://bitbucket.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" alt="Bitbucket" width="40" height="40"/> </a>
   <a href="https://www.atlassian.com/de/software/jira" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="" width="40" height="40"/> </a>
-  https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg 
-https://cdn.svgporn.com/logos/phpstorm.svg
-https://worldvectorlogo.com/logo/slack-new-logo
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/en-en/phpstorm/" target="_blank"> <img src="https://cdn.svgporn.com/logos/phpstorm.svg" alt="PHPStorm" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/slack-new-logo" alt="Slack" width="40" height="40"/> </a>
+   
+
+
   <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
@@ -52,7 +54,7 @@ https://worldvectorlogo.com/logo/slack-new-logo
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>   
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTIwNDc5LDEyNjg3MTAyNiwtOTI5Nj
+eyJoaXN0b3J5IjpbMjgzMjMyOTI4LDEyNjg3MTAyNiwtOTI5Nj
 QwNTk2LC0yMzkzMTg0NjAsNDIxNzEwMDg2LDE1MjUxNjM2Njdd
 fQ==
 -->
