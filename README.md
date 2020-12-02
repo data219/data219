@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A passionate PHP, symfony (and sometimes python) developer with a preference for devops from Cologne, Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=S,A" alt="data219" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET,A" alt="data219" /></a> </p>
 
 - 🌱 I’m currently learning **kubernetes**
 
@@ -23,7 +23,8 @@
   <a href="https://getcomposer.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/> </a>  
   <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
    <a href="https://www.w3.org/2001/sw/wiki/REST" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/rest-63.svg" alt="REST" width="40" height="40"/> </a>
-   <a href="https://swagger.io/" target="_blank"> <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/> </a>   
+   <a href="https://swagger.io/" target="_blank"> <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/> </a>
+   <a href="https://api-platform.com" target="_blank">  <img src="https://api-platform.com/static/2a15225e1eb2d831b3a11e23b5d5ed7d/Logo_Circle%20webby%20text%20blue.svg" alt="API Platform" width="40" height="40"/>  </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
@@ -54,7 +55,7 @@
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTc3NDAzLDEyNjg3MTAyNiwtOTI5Nj
-QwNTk2LC0yMzkzMTg0NjAsNDIxNzEwMDg2LDE1MjUxNjM2Njdd
-fQ==
+eyJoaXN0b3J5IjpbLTExNTIyNTI2MDgsMTI2ODcxMDI2LC05Mj
+k2NDA1OTYsLTIzOTMxODQ2MCw0MjE3MTAwODYsMTUyNTE2MzY2
+N119
 -->
