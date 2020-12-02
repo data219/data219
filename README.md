@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET,A" alt="data219" /></a> </p>
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **kubernetes, AWS, Caddy**
 
 - 💬 Ask me about **php, symfony, linux, software engineering**
 
@@ -56,7 +56,7 @@
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMDAzNjM0LC0xMTUyMjUyNjA4LDEyNj
-g3MTAyNiwtOTI5NjQwNTk2LC0yMzkzMTg0NjAsNDIxNzEwMDg2
-LDE1MjUxNjM2NjddfQ==
+eyJoaXN0b3J5IjpbLTE3MTQ4NTIxMTIsLTExNTIyNTI2MDgsMT
+I2ODcxMDI2LC05Mjk2NDA1OTYsLTIzOTMxODQ2MCw0MjE3MTAw
+ODYsMTUyNTE2MzY2N119
 -->
