@@ -47,17 +47,17 @@
   <a  href="http://dokku.viewdocs.io/dokku/" target="_blank">  <img  src="https://github.com/dokku/dokku/blob/master/docs/assets/dokku.png" alt="Dokku" width="40" height="40"/>  </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
-  <a href="g" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/zend-framework.svg" alt="Zend Framework" width="40" height="40"/> </a>
+  <a href="https://framework.zend.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/zend-framework.svg" alt="Zend Framework" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg
-  https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/> </a>
+  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzY5MTg5NywxMjY4NzEwMjYsLTkyOT
+eyJoaXN0b3J5IjpbMTIyOTM0NjQ1MCwxMjY4NzEwMjYsLTkyOT
 Y0MDU5NiwtMjM5MzE4NDYwLDQyMTcxMDA4NiwxNTI1MTYzNjY3
 XX0=
 -->
