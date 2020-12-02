@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET,A" alt="data219" /></a> </p>
 
-- 🌱 I’m currently learning **kubernetes, AWS, Caddy, the piano**
+- 🌱 I’m currently learning **kubernetes, AWS, Caddy and the piano**
 
-- 💬 Ask me about **php, symfony, git, docker, phpunit, linux, software engineering, IDEs, developer toolchains and devops**
+- 💬 Ask me about **php, symfony, git, devops, docker, phpunit/testing, linux, software engineering, IDEs and developer toolchains**
 
 - ⚡ Fun fact **in theory music is pure logic**
 
@@ -56,7 +56,8 @@
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjM2MDkyNiwtMTcxNDg1MjExMiwtMT
-E1MjI1MjYwOCwxMjY4NzEwMjYsLTkyOTY0MDU5NiwtMjM5MzE4
-NDYwLDQyMTcxMDA4NiwxNTI1MTYzNjY3XX0=
+eyJoaXN0b3J5IjpbMTY4OTAyNzI2NCwxODYyMzYwOTI2LC0xNz
+E0ODUyMTEyLC0xMTUyMjUyNjA4LDEyNjg3MTAyNiwtOTI5NjQw
+NTk2LC0yMzkzMTg0NjAsNDIxNzEwMDg2LDE1MjUxNjM2NjddfQ
+==
 -->
