@@ -26,6 +26,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   https://cdn.worldvectorlogo.com/logos/github-icon-1.svg
   https://cdn.worldvectorlogo.com/logos/gitlab.svg
+  https://cdn.worldvectorlogo.com/logos/bitbucket.svg
   <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
@@ -37,6 +38,7 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
+  https://cdn.worldvectorlogo.com/logos/zend-framework.svg
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
@@ -45,6 +47,6 @@
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTQ3ODE2NSwtOTI5NjQwNTk2LC0yMz
-kzMTg0NjAsNDIxNzEwMDg2LDE1MjUxNjM2NjddfQ==
+eyJoaXN0b3J5IjpbODczNDY4ODc0LC05Mjk2NDA1OTYsLTIzOT
+MxODQ2MCw0MjE3MTAwODYsMTUyNTE2MzY2N119
 -->
