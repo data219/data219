@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A passionate software engineer and team lead from Cologne, Germany. PHP and symfony veteran with a preference for devops, testing and code quality.</h3>
+<h3 align="center">A passionate software engineer from Cologne, Germany. PHP and symfony veteran with a preference for devops, testing and code quality.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET,A" alt="data219" /></a> </p>
+Extra ingredients: menoring, lead development, python, IoT
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET" alt="data219" /></a> </p>
 
 - 🌱 I’m currently learning **kubernetes, AWS, Caddy and the piano**
 
