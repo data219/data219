@@ -58,8 +58,8 @@ Extra ingredients: menoring, lead development, python, IoT
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTAyNzI2NCwxODYyMzYwOTI2LC0xNz
-E0ODUyMTEyLC0xMTUyMjUyNjA4LDEyNjg3MTAyNiwtOTI5NjQw
-NTk2LC0yMzkzMTg0NjAsNDIxNzEwMDg2LDE1MjUxNjM2NjddfQ
-==
+eyJoaXN0b3J5IjpbLTIxNTYwMDgyMywxNjg5MDI3MjY0LDE4Nj
+IzNjA5MjYsLTE3MTQ4NTIxMTIsLTExNTIyNTI2MDgsMTI2ODcx
+MDI2LC05Mjk2NDA1OTYsLTIzOTMxODQ2MCw0MjE3MTAwODYsMT
+UyNTE2MzY2N119
 -->
