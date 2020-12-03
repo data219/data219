@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A passionate software engineer from Cologne, Germany. PHP and symfony veteran with a preference for devops, testing and code quality.</h3>
 
-***Extra ingredients: mentoring, consulting, lead development, python, IoT***
+***Extra ingredients: mentoring, consulting, lead development + team lead, python, IoT***
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET" alt="data219" /></a> </p>
 
@@ -58,8 +58,8 @@
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA3OTE3NTksMTY4OTAyNzI2NCwxOD
-YyMzYwOTI2LC0xNzE0ODUyMTEyLC0xMTUyMjUyNjA4LDEyNjg3
-MTAyNiwtOTI5NjQwNTk2LC0yMzkzMTg0NjAsNDIxNzEwMDg2LD
-E1MjUxNjM2NjddfQ==
+eyJoaXN0b3J5IjpbLTE3NTQ2MzIzMTMsLTE2OTA3OTE3NTksMT
+Y4OTAyNzI2NCwxODYyMzYwOTI2LC0xNzE0ODUyMTEyLC0xMTUy
+MjUyNjA4LDEyNjg3MTAyNiwtOTI5NjQwNTk2LC0yMzkzMTg0Nj
+AsNDIxNzEwMDg2LDE1MjUxNjM2NjddfQ==
 -->
