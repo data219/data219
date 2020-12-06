@@ -20,7 +20,7 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://symfony.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"/> </a>
+  <a href="https://symfony.com" target="_blank"> <img src="https://worldvectorlogo.com/download/symfony.svg" alt="symfony" width="40" height="40"/> </a>
   <a href="https://www.doctrine-project.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="doctrine" width="40" height="40"/> </a>
   <a href="https://getcomposer.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/> </a>
   <a href="https://phpunit.de/" target="_blank"> <img src="https://www.apollo-formation.com/wp-content/uploads/phpunitfinal-250x208.png" alt="phpunit" width="40" height="40"/> </a>
