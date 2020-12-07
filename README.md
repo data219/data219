@@ -9,21 +9,28 @@
 
 - 💬 Ask me about **PHP, Symfony, git, DevOps, Docker, PHPUnit/testing, Linux, software engineering, IDEs, and developer toolchains**
 
+- 📫 How to reach me **jan@markmann.it**
+
+- 📄 Know about my experiences [https://www.xing.com/profile/Jan_Markmann/cv](https://www.xing.com/profile/Jan_Markmann/cv)
+
 - ⚡ Fun fact **in theory music is pure logic**
 
 ### Connect with me:
+
 <p align="left">
 <a href="https://twitter.com/data219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="data219" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janmarkmann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="janmarkmann" height="30" width="40" /></a>
 <a href="https://fb.com/data219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="data219" height="30" width="40" /></a>
+<a href="https://discord.gg/EFf7DaWAUE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="EFf7DaWAUE" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://symfony.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"/> </a>
-  <a href="https://www.doctrine-project.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="doctrine" width="40" height="40"/> </a>
+  <a href="https://symfony.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony" width="40" height="40"/> </a>
+  <a href="https://www.doctrine-project.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="Doctrine" width="40" height="40"/> </a>
   <a href="https://getcomposer.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/> </a>
-  <a href="https://phpunit.de/" target="_blank"> <img src="https://www.apollo-formation.com/wp-content/uploads/phpunitfinal-250x208.png" alt="phpunit" width="40" height="40"/> </a>
+  <a href="https://phpunit.de/" target="_blank"> <img src="https://www.apollo-formation.com/wp-content/uploads/phpunitfinal-250x208.png" alt="PHPUnit" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
    <a href="https://www.w3.org/2001/sw/wiki/REST" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/rest-63.svg" alt="REST" width="40" height="40"/> </a>
    <a href="https://swagger.io/" target="_blank"> <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/> </a>
