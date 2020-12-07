@@ -42,6 +42,7 @@
   <a href="https://bitbucket.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" alt="Bitbucket" width="40" height="40"/> </a>
   <a href="https://www.atlassian.com/de/software/jira" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+  <a href="https://gitpod.io/" target="_blank"> <img src="https://symbols.getvecta.com/stencil_81/52_gitpod-icon.20f12c5be8.svg" alt="Gitpod" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/en-en/phpstorm/" target="_blank"> <img src="https://cdn.svgporn.com/logos/phpstorm.svg" alt="PHPStorm" width="40" height="40"/> </a>
   <a href="https://slack.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
