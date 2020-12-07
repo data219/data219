@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **kubernetes, AWS, Caddy and the piano**
 
-- 💬 Ask me about **php, symfony, git, devops, docker, phpunit/testing, linux, software engineering, IDEs and developer toolchains**
+- 💬 Ask me about **PHP, Symfony, git, DevOps, Docker, PHPUnit/testing, Linux, software engineering, IDEs, and developer toolchains**
 
 - ⚡ Fun fact **in theory music is pure logic**
 
