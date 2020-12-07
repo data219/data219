@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A passionate software engineer from Cologne, Germany. PHP and symfony veteran with a preference for devops, testing and code quality.</h3>
+<h3 align="center">A passionate software engineer from Cologne, Germany. PHP and Symfony veteran with a preference for DevOps, testing, and code quality.</h3>
 
 ***Extra ingredients: mentoring, consulting, lead development + team lead, python, IoT***
 
