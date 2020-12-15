@@ -3,9 +3,7 @@
 
 ***Extra ingredients: mentoring, consulting, lead development + team lead, python, IoT***
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET" alt="data219" /></a> </p>
-
-- 🌱 I’m currently learning **kubernetes, AWS, Caddy and the piano**
+- 🌱 I’m currently learning **kubernetes, AWS, [Caddy](https://caddyserver.com/), [bref](https://bref.sh/), [Laravel Vapor](https://vapor.laravel.com/) and the piano**
 
 - 💬 Ask me about **PHP, Symfony, git, DevOps, Docker, PHPUnit/testing, Linux, software engineering, IDEs, and developer toolchains**
 
@@ -65,6 +63,8 @@
   <a href="http://ubuntulinux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
+<p align="left"> Indeed, I've been around for a while: <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET" alt="data219" /></a> </p>
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3NTQ2MzIzMTMsLTE2OTA3OTE3NTksMT
 Y4OTAyNzI2NCwxODYyMzYwOTI2LC0xNzE0ODUyMTEyLC0xMTUy
