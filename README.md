@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jan@markmann.it**
 
-- 📄 Know about my experiences [https://www.xing.com/profile/Jan_Markmann/cv](https://www.xing.com/profile/Jan_Markmann/cv)
+- 📄 Know about my experiences [LinedIn](https://www.linkedin.com/in/janmarkmann/) [XING](https://www.xing.com/profile/Jan_Markmann/cv)
 
 - ⚡ Fun fact **in theory music is pure logic**
 
