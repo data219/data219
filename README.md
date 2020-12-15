@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact **in theory music is pure logic**
 
+> Indeed, I've been around for a while
+> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET" alt="data219" /></a>
+
 ### Connect with me:
 
 <p align="left">
@@ -63,7 +66,6 @@
   <a href="http://ubuntulinux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
-<p align="left"> Indeed, I've been around for a while: <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET" alt="data219" /></a> </p>
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3NTQ2MzIzMTMsLTE2OTA3OTE3NTksMT
