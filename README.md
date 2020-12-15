@@ -7,13 +7,13 @@
 
 - 💬 Ask me about **PHP, Symfony, git, DevOps, Docker, PHPUnit/testing, Linux, software engineering, IDEs, and developer toolchains**
 
-- 📫 How to reach me **jan@markmann.it**
+- 📫 How to reach me **jan@markmann.dev**
 
-- 📄 Know about my experiences [LinedIn](https://www.linkedin.com/in/janmarkmann/) [XING](https://www.xing.com/profile/Jan_Markmann/cv)
+- 📄 Know about my experiences: <a href="https://linkedin.com/in/janmarkmann" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="20" width="20" /> LinkedIn</a> <a href="https://www.xing.com/profile/Jan_Markmann/cv" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" alt="Xing" height="20" width="20" /> Xing</a>
 
 - ⚡ Fun fact **in theory music is pure logic**
 
-> Indeed, I've been around for a while
+> Indeed, I've been around for a while  
 > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=data219&rank=SECRET" alt="data219" /></a>
 
 ### Connect with me:
