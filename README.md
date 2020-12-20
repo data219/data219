@@ -9,7 +9,10 @@
 
 - 📫 How to reach me **jan@markmann.dev**
 
-- 📄 Know about my experiences: [JSON Resume](https://registry.jsonresume.org/data219), [![LinkedIn](https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg) LinkedIn](https://linkedin.com/in/janmarkmann) [![Xing](https://cdn.worldvectorlogo.com/logos/xing-icon.svg) Xing](https://www.xing.com/profile/Jan_Markmann/cv)
+- 📄 Know about my experiences:
+  - [JSON Resume](https://registry.jsonresume.org/data219)
+  - <a href="https://linkedin.com/in/janmarkmann" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="20" width="20" /> LinkedIn</a>
+  - <a href="https://www.xing.com/profile/Jan_Markmann/cv" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" alt="Xing" height="20" width="20" /> Xing</a>
 
 - ⚡ Fun fact **in theory music is pure logic**
 
