@@ -24,6 +24,13 @@
 
 ### Connect with me:
 <p align="left">
+<a href="https://twitter.com/data219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="data219" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janmarkmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janmarkmann" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14735044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14735044" height="30" width="40" /></a>
+</p>
+
+### Languages and Tools:
+<p align="left">
     <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
     <a href="https://symfony.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="Symfony" width="40" height="40"/></a>
     <a href="https://api-platform.com" target="_blank">  <img src="https://api-platform.com/static/2a15225e1eb2d831b3a11e23b5d5ed7d/Logo_Circle%20webby%20text%20blue.svg" alt="API Platform" width="40" height="40"/></a>
