@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A passionate software engineer from Cologne, Germany. PHP and Symfony veteran with a preference for DevOps, testing, and code quality.</h3>
+<h3 align="center">A passionate software engineer from Cologne, Germany. PHP and Symfony veteran with a preference for DevOps, code quality, and software quality.</h3>
 
-***Extra ingredients: mentoring, consulting, lead development + team lead, python, IoT***
+***Extra ingredients: software architecture, mentoring, consulting, development lead, team lead, people lead, python, IoT***
 
-- 🔭 I’m currently working with **PHP, Symfony, Kubernetes and its API, Google Cloud Run, Rancher**
+- 🔭 I’m currently working with **PHP, Symfony, Kubernetes, Containers, and Caddy**
 
-- 🌱 I’m currently learning **Kubernetes, Rancher, and the piano**
+- 🌱 I’m currently learning **GitOps, Kubernetes, Helm, Coder templating, and the piano**
 
-- 🌱 I’m was learning, but can not find time for **python, AWS, [Caddy](https://caddyserver.com/), [bref](https://bref.sh/), [Laravel Vapor](https://vapor.laravel.com/) and the piano**
+- 🌱 I’m was learning, but can not find time for **python, AWS, [bref](https://bref.sh/), [Laravel Vapor](https://vapor.laravel.com/) and the piano**
 
-- 🤝 I’m looking for help with **Kubernetes, Rancher, and the piano**
+- 🤝 I’m looking for help with **GitOps, Kubernetes, AWS, and the piano**
 
-- 💬 Ask me about **PHP, Symfony, software engineering, git, DevOps, Docker, PHPUnit/testing, Linux, IDEs, and developer toolchains**
+- 💬 Ask me about **PHP, Symfony, software engineering, git, DevOps, Docker, PHPUnit/testing, Linux, Visual Studio Code, and developer toolchains**
 
 - 📫 How to reach me **jan@markmann.dev**
 
