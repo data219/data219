@@ -30,7 +30,7 @@
 ### Tech Stack:
 <p align="left">
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://symfony.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/></a>
+  <a href="https://symfony.com" target="_blank"><img src="https://symfony.com/logos/symfony_white_03.svg" alt="Symfony" width="40" height="40"/></a>
   <a href="https://api-platform.com" target="_blank"><img src="https://api-platform.com/images/logos/Logo_Circle%20webby%20text%20blue%20light.svg" alt="API Platform" width="40" height="40"/></a>
   <a href="https://www.doctrine-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-original.svg" alt="Doctrine" width="40" height="40"/></a>
   <a href="https://getcomposer.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/></a>
@@ -41,7 +41,7 @@
   <a href="https://helm.sh" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/></a>
   <a href="https://www.rancher.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rancher/rancher-original.svg" alt="Rancher" width="40" height="40"/></a>
   <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
@@ -55,7 +55,7 @@
   <a href="https://www.jenkins.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
   <a href="https://grafana.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
   <a href="https://sentry.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" alt="Sentry" width="40" height="40"/></a>
-  <a href="https://caddyserver.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/25/The_Caddy_web_server_logo.svg" alt="Caddy" width="40" height="40"/></a>
+  <a href="https://caddyserver.com" target="_blank"><img src="https://raw.githubusercontent.com/caddyserver/website/master/src/resources/images/logo-light.svg" alt="Caddy" width="40" height="40"/></a>
   <a href="https://nginx.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
