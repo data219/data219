@@ -35,7 +35,7 @@
   <a href="https://www.doctrine-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-original.svg" alt="Doctrine" width="40" height="40"/></a>
   <a href="https://getcomposer.org/" target="_blank"><img src="assets/icons/composer-dark.svg" alt="Composer" width="40" height="40"/></a>
   <a href="https://phpunit.de/" target="_blank"><img src="assets/icons/phpunit-dark.svg" alt="PHPUnit" width="40" height="40"/></a>
-  <a href="https://xdebug.org/" target="_blank"><img src="https://xdebug.org/images/logos/xdebug-logo.svg" alt="Xdebug" width="40" height="40"/></a>
+  <a href="https://xdebug.org/" target="_blank"><img src="assets/icons/xdebug-dark.svg" alt="Xdebug" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://helm.sh" target="_blank"><img src="assets/icons/helm-dark.svg" alt="Helm" width="40" height="40"/></a>
