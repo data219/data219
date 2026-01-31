@@ -15,39 +15,40 @@ jobs:
   sync:
     runs-on: ubuntu-latest
 
+    env:
+      # Set this secret in repo Settings → Secrets and variables → Actions.
+      # Fine-grained PAT recommended:
+      # - Resource owner: data219
+      # - Repository access: Only select repositories → data219/data219.github.io
+      # - Permissions: Contents: Read & Write
+      PAGES_REPO_TOKEN: ${{ secrets.PAGES_REPO_TOKEN }}
+
     steps:
       - name: Checkout profile repo
         uses: actions/checkout@v4
 
-      # This workflow pushes to a *different* repo (data219/data219.github.io).
-      # GitHub's built-in GITHUB_TOKEN typically cannot write to other repos.
-      #
-      # Required setup:
-      # - Create a fine-grained PAT with access to `data219/data219.github.io` (Contents: Read & Write)
-      # - Add it to this repo as Actions secret: PAGES_REPO_TOKEN
-      - name: Check required secret
+      - name: Skip if token not configured
+        if: ${{ env.PAGES_REPO_TOKEN == '' }}
         run: |
-          if [ -z "${{ secrets.PAGES_REPO_TOKEN }}" ]; then
-            echo "PAGES_REPO_TOKEN is not set. Skipping sync (configure a fine-grained PAT with Contents: Read & Write on data219/data219.github.io)."
-            exit 0
-          fi
+          echo "PAGES_REPO_TOKEN is not set. Skipping sync."
+          exit 0
 
       - name: Checkout Pages repo
-        if: ${{ secrets.PAGES_REPO_TOKEN != '' }}
+        if: ${{ env.PAGES_REPO_TOKEN != '' }}
         uses: actions/checkout@v4
         with:
           repository: data219/data219.github.io
-          token: ${{ secrets.PAGES_REPO_TOKEN }}
+          token: ${{ env.PAGES_REPO_TOKEN }}
           path: pages
 
       - name: Copy README to _includes/about.md
-        if: ${{ secrets.PAGES_REPO_TOKEN != '' }}
+        if: ${{ env.PAGES_REPO_TOKEN != '' }}
         run: |
           mkdir -p pages/_includes
           cp README.md pages/_includes/about.md
 
       - name: Commit & push (only if changed)
-        if: ${{ secrets.PAGES_REPO_TOKEN != '' }}
+        if: ${{ env.PAGES_REPO_TOKEN != '' }}
         working-directory: pages
         run: |
           if git diff --quiet -- _includes/about.md; then
