@@ -30,7 +30,7 @@
 ### Tech Stack:
 <p align="left">
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://symfony.com" target="_blank"><img src="https://symfony.com/logos/symfony_white_03.svg" alt="Symfony" width="40" height="40"/></a>
+  <a href="https://symfony.com" target="_blank"><img src="https://symfony.com/logos/symfony_white_03.png" alt="Symfony" width="40" height="40"/></a>
   <a href="https://api-platform.com" target="_blank"><img src="https://api-platform.com/images/logos/Logo_Circle%20webby%20text%20blue%20light.svg" alt="API Platform" width="40" height="40"/></a>
   <a href="https://www.doctrine-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-original.svg" alt="Doctrine" width="40" height="40"/></a>
   <a href="https://getcomposer.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/></a>
@@ -42,7 +42,7 @@
   <a href="https://www.rancher.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rancher/rancher-original.svg" alt="Rancher" width="40" height="40"/></a>
   <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="assets/icons/ansible-dark.svg" alt="Ansible" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></a>
