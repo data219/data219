@@ -1,0 +1,53 @@
+name: Sync README to GitHub Pages include
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sync-readme-to-pages
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      # This workflow pushes to a *different* repo (data219/data219.github.io).
+      # GitHub's built-in GITHUB_TOKEN typically cannot write to other repos.
+      #
+      # Required setup:
+      # - Create a fine-grained PAT with access to `data219/data219.github.io` (Contents: Read & Write)
+      # - Add it to this repo as Actions secret: PAGES_REPO_TOKEN
+      - name: Checkout Pages repo
+        uses: actions/checkout@v4
+        with:
+          repository: data219/data219.github.io
+          token: ${{ secrets.PAGES_REPO_TOKEN }}
+          path: pages
+
+      - name: Copy README to _includes/about.md
+        run: |
+          mkdir -p pages/_includes
+          cp README.md pages/_includes/about.md
+
+      - name: Commit & push (only if changed)
+        working-directory: pages
+        run: |
+          if git diff --quiet -- _includes/about.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add _includes/about.md
+          git commit -m "Update _includes/about.md from data219/README.md"
+          git push
