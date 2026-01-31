@@ -25,7 +25,15 @@ jobs:
       # Required setup:
       # - Create a fine-grained PAT with access to `data219/data219.github.io` (Contents: Read & Write)
       # - Add it to this repo as Actions secret: PAGES_REPO_TOKEN
+      - name: Check required secret
+        run: |
+          if [ -z "${{ secrets.PAGES_REPO_TOKEN }}" ]; then
+            echo "PAGES_REPO_TOKEN is not set. Skipping sync (configure a fine-grained PAT with Contents: Read & Write on data219/data219.github.io)."
+            exit 0
+          fi
+
       - name: Checkout Pages repo
+        if: ${{ secrets.PAGES_REPO_TOKEN != '' }}
         uses: actions/checkout@v4
         with:
           repository: data219/data219.github.io
@@ -33,11 +41,13 @@ jobs:
           path: pages
 
       - name: Copy README to _includes/about.md
+        if: ${{ secrets.PAGES_REPO_TOKEN != '' }}
         run: |
           mkdir -p pages/_includes
           cp README.md pages/_includes/about.md
 
       - name: Commit & push (only if changed)
+        if: ${{ secrets.PAGES_REPO_TOKEN != '' }}
         working-directory: pages
         run: |
           if git diff --quiet -- _includes/about.md; then
