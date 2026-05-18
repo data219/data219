@@ -1,6 +1,6 @@
 # Hi, I'm Jan
 
-###  Hands-on Tech Lead / Staff-level backend engineer and Engineering Manager from Germany with a strong backend focus on PHP/Symfony, platform engineering, production systems, and AI-assisted development workflows.
+## Hands-on Tech Lead / Staff-level backend engineer and Engineering Manager from Germany with a strong backend focus on PHP/Symfony, platform engineering, production systems, and AI-assisted development workflows.
 
 ***Also part of the mix: architecture, mentoring, people leadership, observability, security, and AI-first engineering.***
 
